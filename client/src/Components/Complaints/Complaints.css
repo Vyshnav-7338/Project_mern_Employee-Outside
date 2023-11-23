@@ -1,0 +1,23 @@
+.Complaint {
+  margin-top: 6em;
+  padding-top: 2em;
+}
+
+.Complaints {
+  text-align: center;
+  padding-top: 2em;
+  margin-bottom: 2em;
+  color: #3f4137;
+  text-shadow: 3px 3px #ff0000;
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.HEADQUARTERS {
+  text-align: center;
+  margin-bottom: 2em;
+  color: #3f4137;
+  text-shadow: 3px 3px #bae73d;
+  font-size: 40px;
+  font-weight: 600;
+}

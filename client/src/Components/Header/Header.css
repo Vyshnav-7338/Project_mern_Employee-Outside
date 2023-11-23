@@ -1,0 +1,63 @@
+header {
+  background: url("../../Image/image.jpg") no-repeat center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container-header {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  margin-bottom: 5em;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: 60px;
+  text-shadow: 3px 2px #ffec00;
+}
+
+.wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.6);
+  max-width: 550px;
+  width: 100%;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 5px;
+}
+
+.wrapper .input {
+  width: 85%;
+  padding: 15px 20px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.searchbtn {
+  background: #ffec00;
+  width: 10%;
+  border-radius: 5px;
+  position: relative;
+  cursor: pointer;
+}
+
+.searchbtn .icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 30px;
+}

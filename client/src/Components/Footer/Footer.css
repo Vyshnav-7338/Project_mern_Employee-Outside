@@ -1,0 +1,18 @@
+footer {
+  background-color: #feeee9;
+}
+
+.Link {
+  color: black;
+  text-decoration: none;
+}
+
+.Copyright {
+  color: black;
+  text-decoration: none;
+  text-shadow: 1px 1px #d3f558;
+}
+
+.Copyright:hover {
+  text-shadow: 2px 2px #eb8f27;
+}

@@ -1,0 +1,31 @@
+.steps {
+  margin-top: 6em;
+  border: 2px solid #f8abab;
+  border-radius: 30px;
+  padding: 2em;
+  margin-bottom: 2em;
+}
+
+.container .steps {
+  margin-top: 6em;
+  text-align: center;
+}
+
+.container .formStyle {
+  border: 2px solid #c7db0f;
+  border-radius: 30px;
+  padding: 2em;
+  margin-bottom: 2em;
+  text-align: center;
+}
+
+.quantity::-webkit-inner-spin-button,
+.quantity::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input {
+  padding: 30px;
+  gap: 20;
+  align-items: center;
+}
